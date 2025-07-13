@@ -2,7 +2,7 @@
 
 -The 3DOF system is trained with the help of synthetic data obtained from the OpenSees. 
 -Total 22 gound motion database was considered from PEERNGA West. 
--The time histories are further scaled to obtain PGA of 0.2, 0.4, 0.6, 0.8, and 1.0 (g).
+-The time histories are further scaled to obtain Max PGA of 0.2, 0.4, 0.6, 0.8, and 1.0 (g).
 -The model is trained with the help of CatBoost ML model.
 -It can be used for educational purpose to understand various concepts related to seismic engineering.
 
